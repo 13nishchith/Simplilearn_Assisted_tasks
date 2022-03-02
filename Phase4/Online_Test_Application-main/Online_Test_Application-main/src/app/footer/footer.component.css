@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+}
+
+span {
+    padding: 20px;
+}
+
+#mid {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+span a {
+    color: rgb(9, 19, 11);
+}
+
+span a {
+    color: rgb(6, 19, 7);
+}
+
+span a:hover {
+    color: #081d0e
+}

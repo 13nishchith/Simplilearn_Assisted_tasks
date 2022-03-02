@@ -1,0 +1,16 @@
+body {
+    padding-top: 56px;
+    background-image: url("../../assets/images/quiz.jpg");
+}
+
+.text-white-50 {
+    background-color: #63e774;
+}
+
+.lh-100 {
+    line-height: 1;
+}
+
+.lh-125 {
+    line-height: 1.25;
+}

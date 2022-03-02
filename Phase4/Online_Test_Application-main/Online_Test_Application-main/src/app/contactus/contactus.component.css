@@ -1,0 +1,20 @@
+body {
+    background-color: #c0c05b;
+    background-image: url("../../assets/images/contact.jpg");
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid rgb(166, 255, 0);
+    box-shadow: 0 0 13px inset rgba(255, 1, 1, 0.082);
+}
+
+.btn {
+    background-color: #5a91b1;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #16932b;
+    border: none;
+}
